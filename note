@@ -1,0 +1,231 @@
+
+
+            <p>Pancake---------------100 birr </p>
+            <p>Chechebsa---------------100 birr </p>
+            <p>Special chechebsa---------------100 birr </p>
+            <p>Omelet with chess and beef---------------100 birr </p>
+            <p>Chess omelet---------------100 birr </p>
+            <p>Fried egg---------------100 birr </p>
+            <p>Vegetable omelet---------------100 birr </p>
+            <p>Scramble egg---------------100 birr </p>
+            <p>Oats with strawberry and yogurt  ---------------100 birr </p>
+            <p>Tuna sandwich---------------100 birr </p>
+            <p>Avocado sandwich---------------100 birr </p>
+            <p>Crepes---------------100 birr </p>
+            <p>Beef wrap---------------100 birr </p> 
+
+
+
+
+
+
+
+
+
+            .home .content{
+                font-size: 3rem;
+                max-width: 60rem;
+                /* background-color: #e4bc70; */
+                align-items: center;
+                justify-content: space-between;
+            }
+            
+            .home .content h3{
+                font-size: 6rem;
+                text-transform: uppercase;
+                color: #fff;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                
+            }
+            
+            .home .content p{
+                font-size: 2rem;
+                font-weight: 600rem;
+                line-height: 2.8;
+                color: #fff;
+            }
+
+"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1970.
+            3364548344787!2d38.849686908706666!3d9.00221450717157!3m2!1i1024!2i768!4f13.
+            1!3m3!1m2!1s0x164b9bbbf6e83275%3A0x144f2c633cca5de7!2sAfro%20flavor%20Coffee!5e0!3m2!1sen!2set!4v1743240688288!5m2!1sen!2set" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <ul>
+        <li>
+            <span class="number"></span>
+            <span class="name">French toast</span>
+            <span class="points">-------</span>                                                    
+            <span class="badge">95</span>
+        </li>        <li>
+            <span class="number"></span>
+            <span class="name">Pancake </span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Chechebsa</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Special chechebsa</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Omelet with chess and beef</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Chess omelet</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li>        <li>
+            <span class="number"></span>
+            <span class="name">Fried egg</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Vegetable omelet</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Scramble egg</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Oats with strawberry and yogur</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Tuna sandwich</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Avocado sandwich</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Crepes</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li><li>
+            <span class="number"></span>
+            <span class="name">Beef wrap</span>
+            <span class="points">-------</span>
+            <span class="badge">95</span>
+        </li>
+    </ul>
+
+
+
+
+
+
+
+
+    ul{
+    background: #0b0909;
+    position: relative;
+    width: 450px;
+    margin: 100px auto 0;
+    padding: min(1em, 8%);
+    box-sizing: border-box;
+}
+ul li{
+    display: flex;
+    padding: 10px 20px;
+    color: #fff;
+    margin: 5px 0;
+    transition: .5s;
+}
+
+ul li span:nth-child(1){
+    width: 10px;
+}
+
+ul li span:nth-child(2){
+    width: 500px;
+}
+
+ul li span:nth-child(3){
+    width: 150px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                <li>
+                    <span class="number"></span>
+                    <span class="name">water 1l</span>
+                    <span class="points">-----</span>                                                    
+                    <span class="badge">50</span>
+                </li><p></p><li>
+                    <span class="number"></span>
+                    <span class="name">water 1/2l</span>
+                    <span class="points">-----</span>
+                    <span class="badge">40</span>
+                </li><li>
+                    <span class="number"></span>
+                    <span class="name">soft drink</span>
+                    <span class="points">-----</span>
+                    <span class="badge">60</span>
+                </li><li>
+                    <span class="number"></span>
+                    <span class="name">ambo mineral water</span>
+                    <span class="points">-----</span>
+                    <span class="badge">70</span>
+                </li><li>
+                    <span class="number"></span>
+                    <span class="name">malt drink</span>
+                    <span class="points">-----</span>
+                    <span class="badge">100</span>
+                </li>
+        
